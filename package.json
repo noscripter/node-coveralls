@@ -30,7 +30,7 @@
     "Adam Moss (https://github.com/adam-moss)"
   ],
   "dependencies": {
-    "js-yaml": "3.6.1",
+    "js-yaml": "3.13.0",
     "lcov-parse": "0.0.10",
     "log-driver": "1.2.5",
     "minimist": "1.2.0",
